@@ -5,7 +5,7 @@ YELLOW="\e[1m\e[1;33m"  # yellow color
 NC="\e[0m"          # no color
 
 function printLogo {
-  bash <(curl -s https://raw.githubusercontent.com/mytolga/logo.sh/refs/heads/main/logo.sh)
+  bash <(curl -s https://raw.githubusercontent.com/mytolga/wardenchiado/refs/heads/main/logo.sh)
 }
 
 function printLine {
